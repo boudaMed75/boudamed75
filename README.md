@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Bouda</h1>
 <h3 align="center">Student at Moulay Ismail University, majoring in Web Development, with a passion to become a versatile Full Stack Developer and an aspiring Mobile Developer</h3>
 
+
+
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **MERN , PYTHON , JAVA**
